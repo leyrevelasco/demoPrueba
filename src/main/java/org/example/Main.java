@@ -10,6 +10,9 @@ public class Main {
 
 
             int variable = 18;
+            for (int i = 0;i<variable; i++){
+                System.out.println(variable);
+            }
 
 
     }
